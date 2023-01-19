@@ -1,11 +1,9 @@
 # Exercism Solutions
-<p>
+
 Welcome to the Exercism Solutions repository! This repository contains solutions to various coding exercises on Exercism in different programming languages.
-</p>
-<p>
+
 This repository is a collection of my solutions to some of the exercises that I have completed on Exercism. I have included a brief explanation of my thought process for each solution,
 as well as any relevant notes or optimizations.
-</p>
 
 ## Table of Contents
 * Introduction
@@ -20,7 +18,7 @@ Exercism is a great platform for improving one's coding skills and problem-solvi
 ## Languages
 Below is a list of the exercises for which I have included solutions in this repository:
 
-# [Bash]()
+* [Bash]()
 This list will be updated as I add more languages and solutions to the repository.
 
 ## Usage
