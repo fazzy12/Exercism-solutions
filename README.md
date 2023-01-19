@@ -19,6 +19,7 @@ Exercism is a great platform for improving one's coding skills and problem-solvi
 Below is a list of the exercises for which I have included solutions in this repository:
 
 * [Bash]()
+
 This list will be updated as I add more languages and solutions to the repository.
 
 ## Usage
